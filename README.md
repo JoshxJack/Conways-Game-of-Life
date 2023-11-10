@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-A simple implementation of Conway's Game of Life using C++ with wxWidgets for the UI.
+A simple implementation of Conway's Game of Life using C# with wxWidgets for the UI.
 
 ## Description
 
